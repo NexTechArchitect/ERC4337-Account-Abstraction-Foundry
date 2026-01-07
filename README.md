@@ -4,6 +4,18 @@
 # 🛡️ ERC-4337 Account Abstraction – Foundry
 
 <p align="center">
+    <img src="https://book.getfoundry.sh/images/foundry-logo.svg" alt="Foundry" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/License_icon-mit-88x31-2.svg/1280px-License_icon-mit-88x31-2.svg.png" alt="MIT License" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.soliditylang.org/">
+    <img src="https://raw.githubusercontent.com/soliditydocs/solidity-docs/main/docs/_static/img/solidity_logo.svg" alt="Solidity" height="50"/>
+  </a>
+</p>
+
+<p align="center">
   <strong>A low-level, protocol-accurate implementation of ERC-4337 Account Abstraction.</strong>
   <br />
   Built with Foundry · Focused on internals · Real execution flow
@@ -14,7 +26,9 @@
   <i>Smart Contract Developer · Solidity · Foundry · Web3 Engineering</i>
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ERC_4337_Architecture_Diagram.svg/2560px-ERC_4337_Architecture_Diagram.svg.png" alt="Account Abstraction Architecture" width="85%" />
+<br/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ERC_4337_Architecture_Diagram.svg/1280px-ERC_4337_Architecture_Diagram.svg.png" alt="Account Abstraction Architecture" width="85%" />
 
 </div>
 
