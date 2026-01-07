@@ -1,18 +1,13 @@
-
 <div align="center">
 
 # 🛡️ ERC-4337 Account Abstraction – Foundry
 
 <p align="center">
-    <img src="https://book.getfoundry.sh/images/foundry-logo.svg" alt="Foundry" height="50"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" alt="Foundry" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/License_icon-mit-88x31-2.svg/1280px-License_icon-mit-88x31-2.svg.png" alt="MIT License" height="45"/>
-  </a>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" height="25"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.soliditylang.org/">
-    <img src="https://raw.githubusercontent.com/soliditydocs/solidity-docs/main/docs/_static/img/solidity_logo.svg" alt="Solidity" height="50"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg" alt="Solidity" height="60"/>
 </p>
 
 <p align="center">
@@ -28,11 +23,9 @@
 
 <br/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ERC_4337_Architecture_Diagram.svg/1280px-ERC_4337_Architecture_Diagram.svg.png" alt="Account Abstraction Architecture" width="85%" />
+<img src="https://ethereum.org/static/c48a5f760c34dfadcf05a208dab137cc/53b59/wallet.webp" alt="Account Abstraction Architecture" width="70%" />
 
 </div>
-
----
 
 ## 📑 Table of Contents
 
