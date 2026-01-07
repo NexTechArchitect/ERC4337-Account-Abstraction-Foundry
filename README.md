@@ -3,23 +3,12 @@
 # 🛡️ ERC-4337 Account Abstraction – Foundry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" alt="Foundry" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" height="25"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg" alt="Solidity" height="60"/>
-</p>
-
-<p align="center">
   <strong>A production-ready, protocol-accurate implementation of ERC-4337 Account Abstraction.</strong>
   <br />
   Built with Foundry · Focused on internals · Real execution flow
 </p>
 
 <br/>
-
-<img src="https://github.com/eth-infinitism/account-abstraction/raw/develop/docs/images/account-abstraction-flow.png" alt="Account Abstraction Architecture" width="70%" />
-
 </div>
 
 ## 📑 Table of Contents
