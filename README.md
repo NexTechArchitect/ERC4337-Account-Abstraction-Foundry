@@ -3,10 +3,6 @@
 
 # 🛡️ ERC-4337 Account Abstraction – Foundry
 
-[![Foundry][foundry-badge]][foundry]
-[![License: MIT][license-badge]][license]
-[![Solidity][solidity-badge]][solidity]
-
 <p align="center">
   <strong>A low-level, protocol-accurate implementation of ERC-4337 Account Abstraction.</strong>
   <br />
