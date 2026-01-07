@@ -11,19 +11,14 @@
 </p>
 
 <p align="center">
-  <strong>A low-level, protocol-accurate implementation of ERC-4337 Account Abstraction.</strong>
+  <strong>A production-ready, protocol-accurate implementation of ERC-4337 Account Abstraction.</strong>
   <br />
   Built with Foundry · Focused on internals · Real execution flow
 </p>
 
-<p align="center">
-  Author: <b>NEXTECHARHITECT</b><br/>
-  <i>Smart Contract Developer · Solidity · Foundry · Web3 Engineering</i>
-</p>
-
 <br/>
 
-<img src="https://ethereum.org/static/c48a5f760c34dfadcf05a208dab137cc/53b59/wallet.webp" alt="Account Abstraction Architecture" width="70%" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*CgL8rf3v3HsOQ9fVfnLMiA.png" alt="Account Abstraction Architecture" width="70%" />
 
 </div>
 
