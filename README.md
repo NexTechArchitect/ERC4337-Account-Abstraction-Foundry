@@ -18,7 +18,7 @@
   <i>Smart Contract Developer · Solidity · Foundry · Web3 Engineering</i>
 </p>
 
-<img src="https://raw.githubusercontent.com/NexTechArchitect/ERC4337-Account-Abstraction-Foundry/main/assets/aa-architecture.png" alt="Account Abstraction Architecture" width="85%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ERC_4337_Architecture_Diagram.svg/2560px-ERC_4337_Architecture_Diagram.svg.png" alt="Account Abstraction Architecture" width="85%" />
 
 </div>
 
@@ -86,15 +86,15 @@ ERC-4337 is the industry standard for Account Abstraction because it achieves AA
 
 ## 🏗️ Architecture & Flow
 
-The flow of a transaction in this repository follows the standard ERC-4337 lifecycle:
+The flow of a transaction in this repository follows the standard ERC-4337 lifecycle.
 
 ```mermaid
 graph TD
     User[User / Client] -->|Sign| UserOp[UserOperation]
     UserOp -->|Send| Bundler[Bundler / Alt Mempool]
-    Bundler -->|Call handleOps()| EP[EntryPoint Contract]
+    Bundler -->|Call handleOps| EP[EntryPoint Contract]
     EP -->|1. Validate| SA[Smart Account]
-    EP -->|2. Check Gas| PM[Paymaster (Optional)]
+    EP -->|2. Check Gas| PM[Paymaster Optional]
     EP -->|3. Execute| SA
     SA -->|Call| Target[Target Contract]
 
@@ -181,9 +181,9 @@ We use Solidity scripts to simulate the Bundler behavior.
 
 | Command | Description |
 | --- | --- |
-| `make deploy-account` | Deploys the Smart Account Factory and Account. |
-| `make deploy-paymaster` | Deploys and funds the Paymaster. |
-| `make send-op` | constructs a `UserOp`, signs it, and sends it to the EntryPoint. |
+| `make deploy` | Deploys contracts and runs the full flow. |
+| `make fix` | Retries the transaction using existing contracts (Saves Gas). |
+| `make balance` | Checks the wallet balance. |
 
 ---
 
