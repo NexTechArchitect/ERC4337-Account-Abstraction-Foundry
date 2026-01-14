@@ -39,7 +39,7 @@ abstract contract SessionKeyManager {
     }
 
     /*//////////////////////////////////////////////////////////////
-                        EXTERNAL VIEW (TEST / UI)
+                        EXTERNAL VIEW FUNCTION
     //////////////////////////////////////////////////////////////*/
 
     function isSessionKeyValid(address key) external view returns (bool) {
