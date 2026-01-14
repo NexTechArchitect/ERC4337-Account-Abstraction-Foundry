@@ -6,10 +6,6 @@ import {
     MessageHashUtils
 } from "@openzeppelin/contracts/utils/cryptography/MessageHashUtils.sol";
 
-/**
- * @title SignatureUtils
- * @notice Utility library for recovering signer from signature
- */
 library SignatureUtils {
     function recoverSigner(
         bytes32 hash,
