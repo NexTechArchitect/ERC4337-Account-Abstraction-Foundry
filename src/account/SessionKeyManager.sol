@@ -12,7 +12,7 @@ abstract contract SessionKeyManager {
     //////////////////////////////////////////////////////////////*/
 
     struct SessionKey {
-        uint48 validUntil; // timestamp until which key is valid
+        uint48 validUntil;
     }
 
     mapping(address => SessionKey) internal sessionKeys;
