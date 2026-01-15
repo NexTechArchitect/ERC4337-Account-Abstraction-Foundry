@@ -6,6 +6,7 @@ pragma solidity ^0.8.28;
  * @author NEXTECHARHITECT
  * @notice Manages temporary session keys with expiry
  */
+
 abstract contract SessionKeyManager {
     /*//////////////////////////////////////////////////////////////
                                 STORAGE
