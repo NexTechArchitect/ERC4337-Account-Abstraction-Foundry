@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # 🛡️ ERC-4337 Account Abstraction – Foundry
 
 <p align="center">
