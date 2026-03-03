@@ -7,7 +7,6 @@
   <br />
   Built with Foundry · Focused on internals · Real execution flow
 </p>
-
 <br/>
 </div>
 
