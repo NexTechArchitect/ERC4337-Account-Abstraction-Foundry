@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ ERC-4337 Account Abstraction – Foundry
+# 🛡️ ERC-4337 Account Abstraction
 
 <p align="center">
   <strong>A production-ready, protocol-accurate implementation of ERC-4337 Account Abstraction.</strong>
