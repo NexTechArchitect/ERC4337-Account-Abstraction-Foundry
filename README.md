@@ -9,7 +9,7 @@
 </p>
 <br/>
 </div>
-## 📑 Table of Contents
+## 📑 Table of Contents ##
 
 - [🧠 Overview](#-overview)
 - [📚 What is Account Abstraction?](#-what-is-account-abstraction)
